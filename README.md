@@ -1,7 +1,10 @@
-<img src="https://vertx.io/assets/logo-sm.png" width=150>
+<h1 align="center">
+<br>
+<br>
+<img src="vertx-logo.svg" width=300>
+<br>
+<br>
+<br>
+</h1>
 
-<img src="logo-drafts-small-01a.png" width=300>
-
-<img src="logo-drafts-small-01b.png" width=300>
-
-![](logo-drafts-01.png)
+> This repository contains the source files of the Vert.x 4 logo.
